@@ -1,0 +1,11 @@
+$primary-color: #1890ff;
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+
+  button {
+    background-color: $primary-color;
+    color: #fff;
+  }
+}
